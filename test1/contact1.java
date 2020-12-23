@@ -1,1 +1,1 @@
-contact1{}
+class contact1{}
