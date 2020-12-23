@@ -1,2 +1,4 @@
 
-constant1{}
+constant1{
+	System.out.println("Testing");
+}
