@@ -1,4 +1,4 @@
 
 constant1{
-	System.out.println("Testing");
+	System.out.println("Testing nonsense");
 }
